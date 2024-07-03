@@ -19,6 +19,7 @@
 Developed and optimized deep learning models for accurate classification of tomato leaf diseases.
 Implemented a user-friendly Android application for real-time disease prediction using the trained model.
 Published experimental findings showcasing superior performance compared to existing methodologies.
+
 **Future Directions:** Future work could focus on expanding the dataset to include more diverse environmental conditions and diseases, enhancing the model's robustness and generalizability.
 
 This project underscores the potential of deep learning in transforming agricultural practices through advanced disease detection and management techniques.
